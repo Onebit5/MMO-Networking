@@ -1,0 +1,22 @@
+{
+    "name": "MMO",
+    "rootNamespace": "",
+    "references": [
+        "Unity.TextMeshPro",
+        "NavMeshComponents",
+        "SQLite-net",
+        "Mirror",
+        "Mirror.Components",
+        "Apathy",
+        "Controller2k"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
